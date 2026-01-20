@@ -9,8 +9,8 @@ license = "MIT"
 readme = "README.md"
 
 documentation = "https://jerry-git.github.io/pytest-split"
-homepage = "https://jerry-git.github.io/pytest-split"
-repository = "https://github.com/jerry-git/pytest-split"
+homepage = "https://github.com/Cortex-Memory/pytest-split"
+repository = "https://github.com/Cortex-Memory/pytest-split"
 
 classifiers = [
   "Development Status :: 4 - Beta",
@@ -34,7 +34,7 @@ packages = [{ include = 'pytest_split', from = 'src' }]
 
 [tool.poetry.dependencies]
 python = ">=3.8.1, <4.0"
-pytest = "^5 | ^6 | ^7 | ^8"
+pytest = "^5 | ^6 | ^7 | ^8 | ^9"
 
 
 [tool.poetry.dev-dependencies]

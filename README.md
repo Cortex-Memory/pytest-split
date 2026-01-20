@@ -5,12 +5,14 @@
 [![PyPI - License](https://img.shields.io/pypi/l/pytest-split?style=flat-square)](https://pypi.python.org/pypi/pytest-split/)
 [![Coookiecutter - Wolt](https://img.shields.io/badge/cookiecutter-Wolt-00c2e8?style=flat-square&logo=cookiecutter&logoColor=D4AA00&link=https://github.com/woltapp/wolt-python-package-cookiecutter)](https://github.com/woltapp/wolt-python-package-cookiecutter)
 
+> **Fork maintained by [Cortex Memory](https://github.com/Cortex-Memory)** with pytest 9+ compatibility.
+> Original project: [jerry-git/pytest-split](https://github.com/jerry-git/pytest-split)
 
 ---
 
 **Documentation**: [https://jerry-git.github.io/pytest-split](https://jerry-git.github.io/pytest-split)
 
-**Source Code**: [https://github.com/jerry-git/pytest-split](https://github.com/jerry-git/pytest-split)
+**Source Code**: [https://github.com/Cortex-Memory/pytest-split](https://github.com/Cortex-Memory/pytest-split)
 
 **PyPI**: [https://pypi.org/project/pytest-split/](https://pypi.org/project/pytest-split/)
 
